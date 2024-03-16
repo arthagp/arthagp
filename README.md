@@ -1,4 +1,4 @@
-## 𝙈𝙮 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠
+## My Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=flat-square&logo=html5&logoColor=ffffff)
